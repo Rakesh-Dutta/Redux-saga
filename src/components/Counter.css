@@ -1,0 +1,20 @@
+.counter-body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.val{
+    background-color: lightgray;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-style: bold;
+}
+.btn-group{
+    margin-top: 20px;
+}
+.btn{
+    margin: 2px;
+    width: 70px;
+    padding: 5px;
+}
